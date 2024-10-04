@@ -21,5 +21,5 @@ var once = function(fn){
  * let onceFn = once(fn)
  *
  * onceFn(1,2,3); // 
- * onceFn(2,3,6); // undefined 
+ * onceFn(2,3,6); // 
  */
