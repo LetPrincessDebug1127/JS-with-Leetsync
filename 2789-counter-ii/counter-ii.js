@@ -19,7 +19,7 @@ function createCounter(init) {
         }
     }
 };
-//
+////
 /**
  * const counter = createCounter(5)
  * counter.increment(); // 6
