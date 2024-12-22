@@ -32,4 +32,3 @@ n = -2
 	<li><code>0 &lt;= calls.length &lt;= 1000</code></li>
 	<li><code>calls[i] === &quot;call&quot;</code></li>
 </ul>
-Ngan
